@@ -1,0 +1,68 @@
+.header{
+	width: 100%;
+	height: 70px;
+	background: black;
+	font-size: 35px;
+	text-align: center;
+	color:#f0ffff;
+}
+.menu{
+	display: inline-block;
+	width: 12%;
+	height:80%;
+	background:black;
+
+}
+.menu-button{
+	width:94%;
+	height: 10%;
+	background:#4682b4;
+	margin: 10px;
+	text-align:center;
+	font-family: "Book Antiqua";
+}
+.add-button{
+	width:79%;
+	height: 10%;
+	background: #39b634;
+	margin: 10px;
+	text-align:center;
+	font-family: "Book Antiqua";
+
+}
+.menu-button:hover{
+	background:#9cff94;
+}
+.inside{
+	display: inline-block;
+	background: #b6b6b6;
+	width: 88%;
+	height:534px;
+	position: absolute;
+	overflow-y: scroll;
+	float: right;
+}
+table{
+	border-collapse: collapse;
+	width: 90%;
+	text-align: center;
+	background: #a0ff89;
+	font-size: 20px;
+	font-family: "Book Antiqua";
+}
+.footer{
+	width: 100%;
+	height: 70px;
+	background:black;
+	font-size: 20px;
+	position: relative;
+	font-family: "Book Antiqua";
+
+}
+body{
+	margin: 0;
+
+}
+.search-page-content{
+	margin: 100px;
+}
